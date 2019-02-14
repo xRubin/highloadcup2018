@@ -1,0 +1,8 @@
+name: highloadcup
+version: 0.0.1
+dependencies:
+  router:
+    github: tbrand/router.cr
+targets:
+  server:
+    main: src/server.cr
